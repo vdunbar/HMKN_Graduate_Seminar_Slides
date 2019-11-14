@@ -1,0 +1,124 @@
+---
+title: "UBCO Library"
+author: "Mathew Vis-Dunbar"
+date: "November 15, 2019"
+output:
+  ioslides_presentation:
+    css: style.css
+  beamer_presentation: default
+---
+
+## 2 Libraries 1 university
+
+- UBC Vancouver (https://www.library.ubc.ca)
+- UBC Okangan (https://www.library.ok.ubc.ca)
+- Resources are the same (journals, books etc.)
+- Services are different (room bookings, writing support, reference etc.)
+- Sometimes you start in the Okanagan, but you end up in Vancouver :/
+
+## Brand new to campus?
+
+<div class="centre">
+And you haven't had to figure this out yet...
+</div>
+
+- Your student card is your library card
+- Your default PIN for logging onto computers is your birthday MMDDYY
+- [You should change this. This is a link to do that.](https://knowit.ok.ubc.ca/article/how-to-reset-your-novell-password-436.html)
+- Your CWL does basically everything else
+
+## You have a subject Librarian
+
+Yay!
+
+[Mathew Vis-Dunbar](mailto:mathew.vis-dunbar@ubc.ca)
+
+## Finding things
+
+<div class="centre">
+Summon & Google Scholar are great tools for the right job. Know when to use them, don't rely on them.
+</div>
+
+[Summon](https://library.ok.ubc.ca/), the landing page of the library
+
+- Searches about 80-90% of the content that UBC has access to.
+- It's great for undergraduate research and finding a known item.
+- It's not where a graduate student should be.
+
+Google Scholar
+
+- Who knows?
+- [Set up institutional access](https://resources.library.ubc.ca/page.php?details=google-scholar&id=524) so you're not asked to pay for things.
+
+## Where you really want to be
+
+- [Medline (PubMed)](https://resources.library.ubc.ca/?searchtype=keywords&search=medline)
+  - What's the difference? Enough for a librarian to care about, not enough for most other people.
+  - You'll want to know what Medical Subject Headings (MeSH) are, and how to use them.
+- [Medline (Ovid)](https://resources.library.ubc.ca/page.php?details=medline&id=63), [Medline (EBSCO)](https://resources.library.ubc.ca/page.php?details=medline&id=902), [Medline (Web of Science)](https://resources.library.ubc.ca/page.php?details=medline&id=2455), [PubMed](https://resources.library.ubc.ca/page.php?details=pubmed&id=166)
+- [PsycInfo](https://resources.library.ubc.ca/page.php?details=psycinfo&id=71): Psychological sciences
+- [SportDiscus](https://resources.library.ubc.ca/page.php?details=sportdiscus&id=51): Sports medicine
+- [Web of Science](https://resources.library.ubc.ca/page.php?details=clarivate&id=859): Sciences, social sciences, arts, and humanities.
+
+## But wait, there's more
+
+- Finding grey literature (unpublished, not formally published)
+- Making Google work for you (Google power searching)
+
+## Getting organized
+
+<div class="centre">
+Research Data Management is crucial
+</div>
+
+- As of 2015 all publications resulting from Tri-Agency funded research needs to be made Open Access within 12 months of publication.
+- A similar policy is in the works for data that supports the publication.
+- This will bring with it the need to create an RDM Plan as part of an application.
+- UBC has an online support tool: https://researchdata.library.ubc.ca/
+- [Marjorie Mitchell](https://library.ok.ubc.ca/about/contact/marjorie-mitchell/) is UBCO's Research Services Librarian
+
+## Citation Management
+<div class="centre">
+Potentially the friend you always wanted but never knew you could have.
+
+Many options. No right answer.
+</div>
+
+- **Zotero**: The only one that just works. Limited storage.
+- **Mendeley**: If an online support community and native PDF editor are important to you. Limited storage.
+- **RefWorks**: The one UBC officially supports and pays for. Exclusively web based. Great for native database extraction, and PDF editing.
+- **EndNote**: If you're being asked to do a systematic review and are expecting thousands of references, the only option. It's not free.
+
+## It's time to write
+
+<div class="centre">
+[**Centre for Scholarly Communication**](https://library.ok.ubc.ca/research/csc/)
+
+They won't edit your work, but they'll help you be a better writer.
+</div>
+
+<div class="columns-2">
+Writing support for:
+
+- journal articles;
+- grant proposals;
+- theses & dissertations; and
+- conference presentations.
+
+They also help with:
+
+- copyright;
+- open access; and
+- author rights.
+</div>
+## Other useful things
+
+- **DocDel**: The service that will bring any book from UBCV to UBCO for you.
+- **Interlibrary Loans**: The service that will try and bring in for you articles and books that UBC Library does not own.
+- **Suggest a book**: Think we should own something we don't? [Email me](mailto:mathew.vis-dunbar@ubc.ca), or [fill out this form](https://about.library.ubc.ca/contact-us/suggest-a-book/).
+
+## Questions
+
+<div class="centre">
+?
+</div>
