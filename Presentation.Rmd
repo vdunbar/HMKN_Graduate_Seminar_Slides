@@ -11,7 +11,7 @@ output:
 ## 2 Libraries 1 university
 
 - UBC Vancouver (https://www.library.ubc.ca)
-- UBC Okangan (https://www.library.ok.ubc.ca)
+- UBC Okangan (https://library.ok.ubc.ca)
 - Resources are the same (journals, books etc.)
 - Services are different (room bookings, writing support, reference etc.)
 - Sometimes you start in the Okanagan, but you end up in Vancouver :/
@@ -23,8 +23,7 @@ And you haven't had to figure this out yet...
 </div>
 
 - Your student card is your library card
-- Your default PIN for logging onto computers is your birthday MMDDYY
-- [You should change this. This is a link to do that.](https://knowit.ok.ubc.ca/article/how-to-reset-your-novell-password-436.html)
+- Your default PIN for logging onto computers is your birthday MMDDYY. [You should change this. This is a link to do that.](https://knowit.ok.ubc.ca/article/how-to-reset-your-novell-password-436.html)
 - Your CWL does basically everything else
 
 ## You have a subject Librarian
@@ -36,14 +35,12 @@ Yay!
 ## Finding things
 
 <div class="centre">
-Summon & Google Scholar are great tools for the right job. Know when to use them, don't rely on them.
+Summon & Google Scholar
 </div>
 
 [Summon](https://library.ok.ubc.ca/), the landing page of the library
 
 - Searches about 80-90% of the content that UBC has access to.
-- It's great for undergraduate research and finding a known item.
-- It's not where a graduate student should be.
 
 Google Scholar
 
@@ -80,14 +77,24 @@ Research Data Management is crucial
 ## Citation Management
 <div class="centre">
 Potentially the friend you always wanted but never knew you could have.
-
-Many options. No right answer.
 </div>
 
 - **Zotero**: The only one that just works. Limited storage.
 - **Mendeley**: If an online support community and native PDF editor are important to you. Limited storage.
-- **RefWorks**: The one UBC officially supports and pays for. Exclusively web based. Great for native database extraction, and PDF editing.
+- **RefWorks**: The one UBC officially supports and pays for. Exclusively web based. Great for native database extraction and PDF editing.
 - **EndNote**: If you're being asked to do a systematic review and are expecting thousands of references, the only option. It's not free.
+
+## Know about storage
+
+From the library
+
+- [cIRcle](https://circle.ubc.ca/) (Institutional Repository)
+- [Scholars Portal Dataverse](https://dataverse.scholarsportal.info/) (Data deposit)
+
+From IT
+
+- [Workspace](https://knowit.ok.ubc.ca/article/99/how-do-i-access-workspace-2-284.html) (UBC's Dropbox)
+- [Networked storage](https://knowit.ok.ubc.ca/article/99/list-of-okanagan-campus-file-storage-shares-508.html) (When privacy is of concern)
 
 ## It's time to write
 
@@ -111,6 +118,20 @@ They also help with:
 - open access; and
 - author rights.
 </div>
+
+## Library spaces
+
+[Discover them here.](https://library.ok.ubc.ca/spaces/)
+
+- Innovation Library (Downtown)
+- Inclusive Technology Lab
+- Okanagan Regional Library
+- Recording Studio
+- Instructional Space
+- Study rooms
+- Active workstations
+- Charging stations
+
 ## Other useful things
 
 - **DocDel**: The service that will bring any book from UBCV to UBCO for you.

@@ -2,6 +2,10 @@ html, body {
   line-height: 2.2em;
 }
 
+p, ul, ul li {
+  color: #000000;
+}
+
 .centre {
   text-align: center;
   font-weight: bold;
